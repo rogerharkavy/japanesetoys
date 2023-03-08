@@ -1,2 +1,1 @@
-# japanesetoys
-Japanese Toys
+Check out the Wiki.
