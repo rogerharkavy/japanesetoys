@@ -1,1 +1,1 @@
-Check out the Wiki.
+Check out the [Wiki](https://github.com/rogerharkavy/japanesetoys/wiki).
