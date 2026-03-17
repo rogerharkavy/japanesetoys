@@ -1,1 +1,1 @@
-Check out the [Wiki](https://github.com/rogerharkavy/japanesetoys/wiki).
+The Japanese Toy Wiki is now located [here](https://rogerharkavy.github.io/japanesetoywiki/).
